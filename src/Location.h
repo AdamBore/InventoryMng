@@ -1,0 +1,10 @@
+
+
+namespace AdamBorenstein
+{
+
+class Location {
+
+};
+
+}
