@@ -25,6 +25,7 @@ class Item{
 		const string name;
 		size_t amountInStock;
 		size_t minStock;
+		Location loc;
 };
 
 }
